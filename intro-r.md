@@ -37,6 +37,13 @@ Download [R](https://www.r-project.org/) and [R Studio](https://www.rstudio.com/
 
 ### 0.2 Packages
 
+Next, to install the R packages, cd into your workspace, and enter the following, very simple, command into your bash: 
+
+```
+R
+```
+
+This will prompt a session in R! From here, you can install any needed packages. For the sake of this tutorial, enter the following into your terminal R session:
 
 ```
 install.packages("")
