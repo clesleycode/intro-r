@@ -6,7 +6,7 @@ Brought to you by [Lesley Cordero](http://www.columbia.edu/~lc2958).
 ## Table of Contents
 
 - [0.0 Setup](#00-setup)
-	+ [0.1 R and R Studio](#01-r-and-r-studio)
+	+ [0.1 R & R Studio](#01-r--r-studio)
 	+ [0.2 Packages](#02-packages)
 - [1.0 Data Types and Operators](#10-data-types-and-operators)
 	+ [1.1 Math and Numbers](#11-math-and-numbers)
@@ -29,11 +29,9 @@ Brought to you by [Lesley Cordero](http://www.columbia.edu/~lc2958).
 
 This guide was written in R 3.2.3.
 
-
-### 0.1 R and R Studio
+### 0.1 R & R Studio
 
 Download [R](https://www.r-project.org/) and [R Studio](https://www.rstudio.com/products/rstudio/download/).
-
 
 ### 0.2 Packages
 
