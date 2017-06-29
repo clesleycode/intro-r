@@ -653,7 +653,7 @@ source("/path-to-file/name_of_file.R")
 
 Source will load and execute a script of R commands.  For instance - if you have saved functions in another file -  you can use source to access the file instead of rewriting the function. Make sure to have both files in the current working directory or to include the path. 
 
-## 3.3 Print 
+### 3.3 Print 
 
 When interacting with a user, we might want to send messages to them. To do that, we send messages to the console via the `print` command.
 
